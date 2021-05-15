@@ -62,7 +62,7 @@ class _patientscmyprofileState extends State<patientscmyprofile> {
                   ),
                 ),Padding(
                   padding: const EdgeInsets.all(8.0),
-                  child: Text("Surname: ",
+                  child: Text("Surnnnname: ",
                     style: TextStyle(
                       color: Colors.black,
                       height: 3,
